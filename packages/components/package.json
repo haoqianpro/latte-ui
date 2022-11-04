@@ -8,8 +8,7 @@
     "build": "vite build && npx gulp --gulpfile ./script/build/gulpfile.js"
   },
   "files": [
-    "es",
-    "lib"
+    "latte-ui"
   ],
   "keywords": [],
   "author": "",

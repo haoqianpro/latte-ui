@@ -2,8 +2,8 @@
   "name": "latte-ui",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
-  "module": "es/index.js",
+  "main": "latte-ui/lib/index.js",
+  "module": "latte-ui/es/index.js",
   "scripts": {
     "build": "vite build && npx gulp --gulpfile ./script/build/gulpfile.js"
   },
